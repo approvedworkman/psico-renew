@@ -1,0 +1,10 @@
+{
+  "name": "psico-renew",
+  "version": "0.1.0",
+  "description": "Asistente de bienestar breve: calma y renueva pensamientos con preguntas respaldadas por la psicología (buscadas en fuentes clínicas y citadas) y propone mini-descansos para dejar la pantalla y hablar con personas reales.",
+  "author": {
+    "name": "approvedworkman"
+  },
+  "repository": "https://github.com/approvedworkman/psico-renew",
+  "keywords": ["bienestar", "salud-mental", "tcc", "descansos", "wellbeing", "burnout"]
+}

@@ -1,0 +1,201 @@
+{
+  "_info": "Catálogo de mini-descansos. tipo: social | movimiento | sentidos. contexto: oficina | remoto | ambos. minutos: duración aproximada.",
+  "descansos": [
+    {
+      "id": "agua-y-pregunta",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 5,
+      "actividad": "Ve por agua o café y pregúntale a la primera persona que te cruces: \"¿Qué ha sido lo mejor de tu semana?\". Escucha la respuesta entera, sin mirar el teléfono."
+    },
+    {
+      "id": "patito-humano",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 10,
+      "actividad": "Explícale el problema en el que estás atascado a un compañero, en voz alta y lejos de la pantalla, sin abrir el código. Como el patito de goma, pero con una persona que te puede contestar."
+    },
+    {
+      "id": "gracias-concreto-en-persona",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 3,
+      "actividad": "Acércate a alguien del equipo y agradécele en persona algo concreto que hizo esta semana: qué fue y por qué te sirvió."
+    },
+    {
+      "id": "vuelta-sin-trabajo",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 10,
+      "actividad": "Invita a alguien a dar una vuelta a la manzana contigo. Una sola regla: no se habla de trabajo."
+    },
+    {
+      "id": "zona-comun",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 5,
+      "actividad": "Ve a la cocina o a la zona común y quédate cinco minutos con quien esté ahí. Pregunta, escucha y deja el teléfono en el bolsillo."
+    },
+    {
+      "id": "otro-equipo",
+      "tipo": "social",
+      "contexto": "oficina",
+      "minutos": 5,
+      "actividad": "Busca a alguien de otro equipo y pregúntale en qué está trabajando y qué es lo que más le gusta de eso."
+    },
+    {
+      "id": "llamada-de-voz",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 5,
+      "actividad": "Llama por teléfono (llamada de voz, no mensaje) a un amigo o familiar solo para saludar. Camina mientras hablas. Tres minutos bastan."
+    },
+    {
+      "id": "nota-de-voz",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 3,
+      "actividad": "Mándale una nota de voz a alguien que hace tiempo no ves, contándole algo pequeño de tu día. Después deja el teléfono y aléjate del escritorio."
+    },
+    {
+      "id": "recado-con-conversacion",
+      "tipo": "social",
+      "contexto": "remoto",
+      "minutos": 15,
+      "actividad": "Sal a comprar algo pequeño (pan, fruta, un café) y ten una conversación de verdad con quien te atienda: salúdale por su nombre si lo sabes, pregúntale cómo va su día."
+    },
+    {
+      "id": "alguien-en-casa",
+      "tipo": "social",
+      "contexto": "remoto",
+      "minutos": 5,
+      "actividad": "Busca a alguien con quien vivas, o toca la puerta de un vecino, y comparte cinco minutos sin pantallas: un café, una pregunta, lo que salga."
+    },
+    {
+      "id": "gracias-por-escrito",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 3,
+      "actividad": "Escríbele a alguien un agradecimiento concreto: qué hizo, cuándo, y qué significó para ti. Envíalo, cierra la app y levántate."
+    },
+    {
+      "id": "cafe-virtual-sin-trabajo",
+      "tipo": "social",
+      "contexto": "remoto",
+      "minutos": 10,
+      "actividad": "Pídele a un compañero una llamada de 10 minutos con la regla de no hablar de trabajo. Mejor solo con audio, mientras los dos caminan."
+    },
+    {
+      "id": "paseo-y-saludo",
+      "tipo": "social",
+      "contexto": "remoto",
+      "minutos": 10,
+      "actividad": "Sal a caminar (con tu perro, si tienes) y saluda a al menos una persona en el camino. Un \"buenos días\" de verdad cuenta."
+    },
+    {
+      "id": "plan-con-hora",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 3,
+      "actividad": "Proponle a alguien un plan para hoy o mañana: un café, una comida, un paseo. Que quede con día y hora, no \"a ver si un día\"."
+    },
+    {
+      "id": "historia-de-alguien-mayor",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 10,
+      "actividad": "Llama a alguien mayor de tu familia o de tu entorno y pregúntale por algo de cuando tenía tu edad. Escucha más de lo que hablas."
+    },
+    {
+      "id": "compartir-la-carga",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 10,
+      "actividad": "Cuéntale a alguien de confianza, en persona o por llamada, algo que te esté costando. No para que lo arregle: para no cargarlo en soledad."
+    },
+    {
+      "id": "estiramientos-dev",
+      "tipo": "movimiento",
+      "contexto": "ambos",
+      "minutos": 3,
+      "actividad": "Ponte de pie y estira: cuello de lado a lado despacio, círculos de hombros hacia atrás, muñecas y dedos abiertos y cerrados. Unos 30 segundos por zona."
+    },
+    {
+      "id": "escaleras",
+      "tipo": "movimiento",
+      "contexto": "ambos",
+      "minutos": 3,
+      "actividad": "Sube y baja una escalera dos veces, o camina hasta el punto más lejano de la oficina o de la casa y vuelve sin prisa."
+    },
+    {
+      "id": "caminar-sin-auriculares",
+      "tipo": "movimiento",
+      "contexto": "ambos",
+      "minutos": 10,
+      "actividad": "Sal a caminar 10 minutos sin auriculares. Fíjate en tres cosas de tu calle que nunca habías notado."
+    },
+    {
+      "id": "manos-ocupadas",
+      "tipo": "movimiento",
+      "contexto": "remoto",
+      "minutos": 5,
+      "actividad": "Lava los platos, riega una planta u ordena algo físico durante cinco minutos. Manos ocupadas, cabeza en pausa."
+    },
+    {
+      "id": "sacudir-y-pisar",
+      "tipo": "movimiento",
+      "contexto": "ambos",
+      "minutos": 2,
+      "actividad": "De pie, sacude brazos y piernas durante 30 segundos. Luego da diez pasos lentos sintiendo cómo cada pie toca el suelo."
+    },
+    {
+      "id": "una-cancion",
+      "tipo": "movimiento",
+      "contexto": "remoto",
+      "minutos": 4,
+      "actividad": "Pon una canción que te guste y muévete (o baila, si nadie mira) hasta que termine. Lejos del escritorio."
+    },
+    {
+      "id": "regla-20-20-20",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 1,
+      "actividad": "Regla 20-20-20 para los ojos: mira algo a unos 6 metros durante 20 segundos. Mejor por una ventana, y mejor aún si hay árboles. Repite tres veces."
+    },
+    {
+      "id": "ventana-y-cielo",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 2,
+      "actividad": "Asómate a una ventana o sal al balcón y mira el cielo durante un minuto. Nota la temperatura del aire en la cara."
+    },
+    {
+      "id": "te-despacio",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 5,
+      "actividad": "Prepárate un té o un café despacio, lejos del escritorio, atento al olor, al calor de la taza y al primer sorbo."
+    },
+    {
+      "id": "agua-fria",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 2,
+      "actividad": "Lávate la cara con agua fría y tómate un vaso de agua de pie, mirando lo más lejos que puedas."
+    },
+    {
+      "id": "aire-libre-verde",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 5,
+      "actividad": "Sal al aire libre cinco minutos. Si hay algo verde cerca (un árbol, un parque, una planta), ve hacia allí."
+    },
+    {
+      "id": "sonidos-lejanos",
+      "tipo": "sentidos",
+      "contexto": "ambos",
+      "minutos": 2,
+      "actividad": "Siéntate en un lugar que no sea tu silla de trabajo, cierra los ojos y escucha los sonidos más lejanos durante dos minutos."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "psico-renew",
+  "owner": {
+    "name": "approvedworkman"
+  },
+  "description": "Marketplace de psico-renew: una skill de bienestar para Claude Code y Claude.",
+  "plugins": [
+    {
+      "name": "psico-renew",
+      "source": "./",
+      "description": "Asistente de bienestar breve: preguntas respaldadas por la psicología para renovar pensamientos y mini-descansos para hablar con personas reales."
+    }
+  ]
+}

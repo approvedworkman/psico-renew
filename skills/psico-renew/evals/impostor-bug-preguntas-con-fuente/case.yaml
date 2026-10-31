@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: impostor-bug-preguntas-con-fuente
+expected_outcome: |
+  Una respuesta breve en español que reconoce el cansancio sin sermonear, da un
+  ejercicio corto de respiración o anclaje, y presenta 2 o 3 preguntas de
+  reestructuración adaptadas al pensamiento "soy un fraude", citando al menos una
+  fuente clínica confiable con URL que la ejecución realmente vio (búsqueda web
+  o banco de preguntas de la skill). No diagnostica.
