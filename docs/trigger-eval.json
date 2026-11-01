@@ -1,0 +1,82 @@
+[
+  {
+    "query": "llevo desde las 9 con este deploy que falla en el pipeline de GitHub Actions y ya son las 11 de la noche, siento que no sirvo para esto y que mañana en la retro todos van a ver que la cagué. necesito bajar un cambio",
+    "should_trigger": true
+  },
+  {
+    "query": "escribe un script de k6 para hacer un stress test del endpoint /api/checkout con 500 usuarios concurrentes durante 10 minutos",
+    "should_trigger": false
+  },
+  {
+    "query": "mañana tengo la demo con el cliente y no paro de pensar que se me va a caer el servidor en vivo y me van a despedir, no puedo ni dormir",
+    "should_trigger": true
+  },
+  {
+    "query": "por qué este bucle for en Python no sale con el break cuando encuentra el item? te pego el código: for i in items: if i.id == target: found = i break",
+    "should_trigger": false
+  },
+  {
+    "query": "my tech lead left like 14 comments on my PR and I keep thinking she regrets hiring me. how do I stop spiraling about this",
+    "should_trigger": true
+  },
+  {
+    "query": "necesito agregar un botón de 'pausa' a mi app de pomodoro en React Native, que guarde el tiempo restante en AsyncStorage",
+    "should_trigger": false
+  },
+  {
+    "query": "psico-renew: tengo la sensación de que todos en el equipo saben más que yo y que en cualquier momento se van a dar cuenta de que no sé nada de Kubernetes",
+    "should_trigger": true
+  },
+  {
+    "query": "explícame la diferencia entre la terapia cognitivo-conductual y la ACT, es para un trabajo de la universidad de psicología",
+    "should_trigger": false
+  },
+  {
+    "query": "dame un mini descanso pls, llevo toda la tarde con claude refactorizando el módulo de pagos y ya no veo ni las llaves",
+    "should_trigger": true
+  },
+  {
+    "query": "estoy diseñando una app de bienestar para empleados y necesito el modelo de datos en Postgres para registrar el estado de ánimo diario (escala 0-10) y las pausas activas",
+    "should_trigger": false
+  },
+  {
+    "query": "estoy quemadísimo, llevo 3 sprints seguidos haciendo horas extra y ya no me importa nada del proyecto. no sé si es normal sentirme así de vacío",
+    "should_trigger": true
+  },
+  {
+    "query": "mi gata tiene ansiedad por separación cuando me voy a la oficina, ¿qué puedo hacer para que esté más tranquila?",
+    "should_trigger": false
+  },
+  {
+    "query": "uff otra vez me rechazaron en la entrevista técnica, ya van 4 este mes. seguro es que soy malo programando y nunca voy a conseguir trabajo de senior",
+    "should_trigger": true
+  },
+  {
+    "query": "resume este artículo sobre burnout en equipos de ingeniería para el newsletter interno, máximo 200 palabras: [texto del artículo]",
+    "should_trigger": false
+  },
+  {
+    "query": "no sé qué me pasa, no puedo dejar de darle vueltas a un comentario que hice en la daily, siento que quedé como idiota. ayúdame a parar esto",
+    "should_trigger": true
+  },
+  {
+    "query": "el CI está rojo otra vez por un test flaky en auth.spec.ts, ¿me ayudas a ver por qué falla solo a veces?",
+    "should_trigger": false
+  },
+  {
+    "query": "can you fix this NullPointerException in OrderService.java line 88? also I've been at this since 6am and honestly I feel like the dumbest person on the team",
+    "should_trigger": true
+  },
+  {
+    "query": "write a Slack bot in Python that reminds my team every 90 minutes to take a break and stretch",
+    "should_trigger": false
+  },
+  {
+    "query": "hoy fue un día pesadísimo, solo quiero calmarme un poco antes de seguir con los tickets de Jira",
+    "should_trigger": true
+  },
+  {
+    "query": "mi amigo me dijo que está muy deprimido desde que lo despidieron y no sé cómo apoyarlo, ¿qué le puedo decir?",
+    "should_trigger": false
+  }
+]
