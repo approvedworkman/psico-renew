@@ -6,9 +6,9 @@ Una skill de bienestar para Claude Code y Claude. Cuando estás estresado, frust
 2. **Renovar el pensamiento** con 2–3 preguntas respaldadas por la psicología (terapia cognitivo-conductual, ACT, autocompasión). Las busca en internet en fuentes clínicas confiables (NHS, APA, universidades, centros clínicos) y te dice de dónde salen.
 3. **Volver al mundo real** con un mini-descanso: levantarte del escritorio, dejar la pantalla y la IA, y hablar con una persona de verdad.
 
-Está pensada para ser **breve a propósito**: dos respuestas y a otra cosa. No busca que hables más con una IA, sino menos.
+Está pensada para ser **breve a propósito**: dos o tres respuestas y a otra cosa. No busca que hables más con una IA, sino menos.
 
-> **Importante:** psico-renew no es terapia ni sustituye a un profesional de la salud mental. Si estás en crisis o piensas en hacerte daño, contacta ya una línea de ayuda: **024** en España, **800 911 2000** en México, **\*4141** en Chile, **135** o **(011) 5275-1135** en Argentina, **988** en EE. UU., o busca la de tu país en [findahelpline.com](https://findahelpline.com). Ante peligro inmediato, llama al número de emergencias local.
+> **Importante:** psico-renew no es terapia ni sustituye a un profesional de la salud mental. Si estás en crisis o piensas en hacerte daño, contacta ya una línea de ayuda: **024** en España, **106** en Colombia, **\*4141** en Chile, **0800 0767** en Uruguay, **800 911 2000** en México, **988** en EE. UU. y Puerto Rico, o busca la de tu país en [findahelpline.com](https://findahelpline.com). Ante peligro inmediato, llama al número de emergencias local. La lista completa, con horarios y fuentes, está en [`crisis.md`](skills/psico-renew/references/crisis.md).
 
 ## Instalación
 
@@ -60,12 +60,14 @@ Opciones: `--contexto oficina|remoto|cualquiera`, `--minutos N`, `--tipo social|
 skills/psico-renew/
 ├── SKILL.md             Instrucciones de la skill
 ├── references/
-│   ├── crisis.md        Protocolo de crisis y líneas de ayuda verificadas
+│   ├── crisis.md        Protocolo de crisis y líneas de ayuda de 19 países y territorios
 │   ├── fuentes-confiables.md  Qué fuentes usar, cuáles evitar, consultas de ejemplo
 │   └── banco-preguntas.md     Preguntas de respaldo con su fuente, por si no hay búsqueda web
 ├── assets/mini_descansos.json Catálogo de mini-descansos
 ├── scripts/mini_descanso.py   Sorteo de mini-descansos (solo biblioteca estándar)
 └── evals/               Casos de prueba (formato de `claude plugin eval`)
+docs/
+└── investigacion-fuentes-2026-11.md  Verificación de fuentes y líneas de ayuda
 ```
 
 ## Pruebas
@@ -81,6 +83,7 @@ Son ejecuciones reales del modelo y consumen uso.
 
 ## Por qué así
 
-- Las preguntas salen de técnicas con evidencia (TCC, ACT, autocompasión) y se citan para que puedas confiar en ellas y profundizar.
+- Las preguntas salen de técnicas con evidencia (TCC, ACT, autocompasión) publicadas por el NHS, la APA, la OMS, el Servicio Andaluz de Salud, universidades y centros clínicos. Se citan para que puedas confiar en ellas y profundizar. La verificación de cada página está en [`docs/investigacion-fuentes-2026-11.md`](docs/investigacion-fuentes-2026-11.md).
 - Los micro-descansos de 10 minutos o menos aumentan la energía y reducen la fatiga ([Albulescu et al., 2022, *PLOS ONE*](https://doi.org/10.1371/journal.pone.0272460)).
-- La conexión social es uno de los factores de bienestar más sólidos que se conocen, así que dos de cada tres descansos implican hablar con alguien.
+- La falta de conexión social se asocia con más depresión, enfermedad cardíaca y muerte prematura ([Surgeon General de EE. UU., 2023](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf); [Comisión de la OMS sobre Conexión Social, 2025](https://www.who.int/groups/commission-on-social-connection)). Por eso unos dos de cada tres descansos implican hablar con alguien.
+- La OMS recomienda reducir el tiempo sentado ([directrices de 2020](https://www.who.int/publications/i/item/9789240015128)), y la regla 20-20-20 ayuda a prevenir la fatiga visual ([American Optometric Association](https://www.aoa.org/about-the-aoa/press-room/press-releases/the-21st-century-eye-three-ways-to-protect-your-vision)).

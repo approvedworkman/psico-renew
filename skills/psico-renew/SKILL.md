@@ -19,14 +19,14 @@ Un espacio breve para bajar revoluciones, mirar un pensamiento con otros ojos y 
 
 Antes de cualquier ejercicio, revisa el mensaje buscando señales de riesgo: ideas de suicidio o de no querer vivir, autolesión, planes de hacerse daño o de hacer daño a otros, estar en peligro (violencia, abuso), o una crisis aguda que no cede (no puede respirar, pánico intenso).
 
-Si aparece alguna, **deja de lado las preguntas y los mini-descansos** y sigue `references/crisis.md`. En resumen: responde con calidez y sin rodeos, pregunta si está a salvo ahora mismo, anima a contactar ya una línea de crisis o emergencias de su país (hay números verificados en ese archivo) y a buscar a una persona de confianza cerca. En crisis no aplica la regla de ser breve: quédate en la conversación hasta que haya contactado ayuda. No intentes reestructurar un pensamiento suicida con preguntas: no es el momento ni la herramienta.
+Si aparece alguna, **deja de lado las preguntas y los mini-descansos** y sigue `references/crisis.md`. En resumen: responde con calidez y sin rodeos, pregunta si está a salvo ahora mismo, anima a contactar ya una línea de crisis de su país y da también el número de emergencias, porque algunas líneas no atienden 24 h (el archivo separa las verificadas de las que no), y anima a buscar a una persona de confianza cerca. En crisis no aplica la regla de ser breve: quédate en la conversación hasta que haya contactado ayuda. No intentes reestructurar un pensamiento suicida con preguntas: no es el momento ni la herramienta.
 
 ## Cómo entrar
 
 - **La persona lo pide** (cuenta que está mal, pide calmarse, invoca psico-renew): entra directo al flujo.
 - **Lo notas en medio de otra tarea** (mientras arreglan un bug escribe "soy un inútil" o "llevo 9 horas con esto"): no secuestres la conversación. Sigue con la tarea y añade **una sola línea** ofreciendo la pausa, por ejemplo: *"Por cierto, 'soy un inútil' suena duro. Si quieres, hacemos una pausa de 3 minutos para mirarlo distinto. Si no, seguimos con el bug."* Si no responde a la oferta, no insistas.
 - **Pide solo un descanso** ("dame un mini-descanso", "necesito una pausa"): ve directo a [Mini-descansos](#mini-descansos).
-- **No hay un pensamiento concreto** ("solo quiero calmarme un poco"): ofrece una práctica breve con fuente (respiración con exhalación larga, la pausa de autocompasión del banco de preguntas) y cierra con un mini-descanso.
+- **No hay un pensamiento concreto** ("solo quiero calmarme un poco"): ofrece una práctica breve con fuente (la respiración del NHS, el anclaje 5-4-3-2-1 o la pausa de autocompasión del banco de preguntas) y cierra con un mini-descanso.
 
 ## Renovar un pensamiento
 
@@ -45,8 +45,8 @@ El 0–10 (en TCC se usa como "unidades subjetivas de malestar") sirve para que 
 
 Con el cuerpo muy activado cuesta pensar distinto, así que antes de las preguntas da algo de 30–60 segundos:
 
-- **Respiración con exhalación larga:** inhalar por la nariz unos 4 segundos, exhalar despacio unos 6, cinco veces.
-- **Anclaje 5-4-3-2-1:** nombrar 5 cosas que ve, 4 que puede tocar, 3 que oye, 2 que huele y 1 que saborea.
+- **Respiración (NHS):** dejar que el aire baje al abdomen, inhalar por la nariz contando de 1 a 5 y exhalar por la boca contando de 1 a 5, sin forzar, unas cinco veces.
+- **Anclaje 5-4-3-2-1 (Cleveland Clinic):** nombrar 5 cosas que ve, 4 que siente al tacto, 3 que oye, 2 que huele y 1 que saborea.
 
 Escribe este paso **antes** de lanzar la búsqueda, para que la persona lo haga mientras buscas: *"Mientras busco preguntas respaldadas para esto, haz cinco respiraciones lentas…"*. Así la espera también ayuda.
 
@@ -75,8 +75,8 @@ Usa las herramientas de búsqueda web que tengas (WebSearch, WebFetch, un agente
 
 Prefiere, en este orden:
 
-1. Organismos de salud y colegios profesionales: NHS, APA, OMS, NIMH, ministerios de salud, Consejo General de la Psicología de España (Infocop).
-2. Universidades, hospitales académicos y centros clínicos: Beck Institute, Mayo Clinic, Cleveland Clinic, Greater Good Science Center (Berkeley), Psychology Tools, servicios de salud mental universitarios.
+1. Organismos de salud y colegios profesionales: NHS, APA, OMS/OPS, NIMH, ministerios y servicios públicos de salud. En español, las guías de autoayuda del Servicio Andaluz de Salud y la guía de la OMS "En tiempos de estrés, haz lo que importa".
+2. Universidades, hospitales académicos y centros clínicos: Beck Institute, Mayo Clinic (también en español), Cleveland Clinic, Greater Good Science Center (Berkeley), Psychology Tools, servicios de salud mental universitarios.
 3. Literatura revisada por pares (PubMed, PLOS).
 
 Evita blogs de bienestar genéricos, influencers, apps que venden algo, granjas de contenido y foros. En `references/fuentes-confiables.md` hay más dominios, señales de alerta y consultas de ejemplo por patrón.
@@ -94,15 +94,15 @@ Evita blogs de bienestar genéricos, influencers, apps que venden algo, granjas 
 
 ### 6. Pensamiento renovado y mini-descanso
 
-Con su respuesta, propone **un** pensamiento alternativo equilibrado, en primera persona y con sus palabras, que pueda ajustar a su gusto. Por ejemplo, de *"Soy un fraude, todos se van a dar cuenta"* a *"Me estoy atascando con algo nuevo; le pasa a cualquiera que aprende, y ya he resuelto cosas difíciles antes"*.
+Con su respuesta, propone **un** pensamiento alternativo equilibrado, en primera persona y con sus palabras, que pueda ajustar a su gusto. Una forma sencilla, tomada de los cuadernos de TCC del NHS: resumir lo que hay a favor y lo que hay en contra en dos frases unidas por "y" o "pero". Por ejemplo, de *"Soy un fraude, todos se van a dar cuenta"* a *"Me estoy atascando con algo nuevo, pero ya he resuelto cosas difíciles antes"*.
 
-Invítale a notar, sin necesidad de responderte, en qué número está ahora comparado con el del principio. Si bajó, es mérito suyo. Si no bajó, está bien: no abras otra ronda de preguntas; a veces lo que más ayuda es moverse y hablar con alguien.
+Invítale a notar, sin necesidad de responderte, en qué número está ahora comparado con el del principio. Si bajó, es mérito suyo. Si no bajó, está bien: no abras otra ronda de preguntas. Esas mismas guías sugieren preguntarle a alguien cercano cómo ve la situación, y eso es justo lo que propone el mini-descanso.
 
 Cierra esa misma respuesta con un mini-descanso (siguiente sección). Es lo que convierte un ejercicio mental en algo vivido y lo que saca a la persona de la pantalla.
 
 ## Mini-descansos
 
-Actividades cortas para levantarse del escritorio, alejarse de la pantalla y, sobre todo, **conectar con personas reales**. La conexión social es uno de los factores de bienestar más sólidos que se conocen, y los micro-descansos de 10 minutos o menos aumentan la energía y reducen la fatiga (Albulescu et al., 2022, *PLOS ONE*).
+Actividades cortas para levantarse del escritorio, alejarse de la pantalla y, sobre todo, **conectar con personas reales**. La falta de conexión social se asocia con más depresión, enfermedad cardíaca y muerte prematura (aviso del Surgeon General de EE. UU., 2023; Comisión de la OMS sobre Conexión Social, 2025), y los micro-descansos de 10 minutos o menos aumentan la energía y reducen la fatiga (Albulescu et al., 2022, *PLOS ONE*).
 
 ### Elegir uno
 
@@ -147,7 +147,7 @@ Sugiere buscar a un psicólogo o médico si el malestar dura más de unas dos se
 
 **Persona:** "llevo 6 horas con un bug de concurrencia y siento que soy un fraude, cualquiera del equipo lo habría resuelto en 10 min"
 
-**Primera respuesta (resumida):** "Seis horas con un bug de concurrencia agotan a cualquiera, y es normal que la cabeza se ponga dura contigo. Mientras busco preguntas respaldadas para esto, haz cinco respiraciones lentas, soltando el aire más despacio de lo que lo tomas." *(busca; encuentra la hoja de preguntas de la APA)* "Lo que describes mezcla etiquetarse ('soy un fraude') con leer la mente del equipo. Elige la pregunta que más te resuene y respóndela en una línea:
+**Primera respuesta (resumida):** "Seis horas con un bug de concurrencia agotan a cualquiera, y es normal que la cabeza se ponga dura contigo. Mientras busco preguntas respaldadas para esto, haz cinco respiraciones lentas: entra el aire por la nariz contando hasta 5 y sale por la boca contando hasta 5." *(busca; encuentra la hoja de preguntas de la APA)* "Lo que describes mezcla etiquetarse ('soy un fraude') con leer la mente del equipo. Elige la pregunta que más te resuene y respóndela en una línea:
 1. ¿Qué pruebas tienes de que el resto lo resolvería en 10 minutos? ¿Y en contra?
 2. ¿Qué le dirías a un compañero que llevara 6 horas con este mismo bug y pensara eso?
 Fuente: APA – Challenge Questions Worksheet (https://www.apa.org/education-career/k12/resources/challenge-questions-worksheet.pdf)"

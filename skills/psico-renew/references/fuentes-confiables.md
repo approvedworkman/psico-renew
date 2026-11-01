@@ -14,9 +14,11 @@ Una pregunta está respaldada cuando viene de un enfoque con evidencia (terapia 
 - `apa.org` (American Psychological Association)
 - `who.int` (OMS)
 - `nimh.nih.gov` (National Institute of Mental Health)
-- `cop.es` e `infocop.es` (Consejo General de la Psicología de España)
-- Ministerios de salud: `sanidad.gob.es`, `gob.mx/salud`, `minsal.cl`, `argentina.gob.ar/salud`
-- Servicios de salud públicos con material de autoayuda, como el Centre for Clinical Interventions de Australia Occidental (`cci.health.wa.gov.au`)
+- `paho.org` (OPS, con versiones para América Latina de guías de la OMS)
+- Ministerios y servicios públicos de salud: `sanidad.gob.es`, `minsalud.gov.co`, `minsal.cl`, `gob.mx/salud`, `argentina.gob.ar/salud`
+- **Servicio Andaluz de Salud** (`sspa.juntadeandalucia.es`): sus *Guías de autoayuda para la depresión y los trastornos de ansiedad* son la mejor fuente en español con preguntas listas para usar
+- Servicios de salud mental del NHS con material de autoayuda (p. ej., MindWell Leeds, `mindwell-leeds.org.uk`) y el Centre for Clinical Interventions de Australia Occidental (`cci.health.wa.gov.au`)
+- `cop.es` e `infocop.es` (Consejo General de la Psicología de España): confiables, pero casi no tienen material de autoayuda con preguntas
 
 **Nivel 2: universidades, hospitales académicos y centros clínicos.**
 
@@ -25,8 +27,10 @@ Una pregunta está respaldada cuando viene de un enfoque con evidencia (terapia 
 - `ggia.berkeley.edu` (Greater Good in Action, UC Berkeley)
 - `self-compassion.org` (Kristin Neff, investigadora de la autocompasión)
 - `psychologytools.com` (material clínico revisado por psicólogos)
-- `actmindfully.com.au` (Russ Harris, ACT)
-- Servicios de salud mental universitarios (dominios `.edu`, `.ac.uk`)
+- Servicios de salud mental universitarios (dominios `.edu`, `.ac.uk`), como University of Toledo, Washington University in St. Louis o Nottingham Trent University
+- `newsnetwork.mayoclinic.org/es` (Mayo Clinic en español)
+
+`actmindfully.com.au` es el sitio personal de Russ Harris, creador de material de ACT. Úsalo solo como complemento: para la técnica de desengancharse, cita la guía de la OMS "En tiempos de estrés, haz lo que importa", que él escribió.
 
 **Nivel 3: literatura revisada por pares.** PubMed, PLOS, revistas de psicología clínica. Útil para respaldar una técnica, menos para encontrar preguntas listas para usar.
 
@@ -50,10 +54,12 @@ Una o dos bastan. Puedes limitar la búsqueda a dominios de nivel 1 y 2 si tu he
 | Etiquetarse | `labelling unhelpful thinking style balanced thought NHS` |
 | "Debería" | `should statements CBT questions` |
 | Culpa / personalización | `personalisation unhelpful thinking styles wider context` |
-| Rumiación / preocupación | `worry time CBT technique NHS` o `rumination self-help questions` |
+| Rumiación / preocupación | `NHS tackling your worries worry time` o `hora de la preocupación guía de autoayuda` |
 | Pensamiento muy "pegado" | `cognitive defusion "I'm having the thought that"` |
 | Autocrítica fuerte | `self-compassion break Kristin Neff` |
-| En español | `preguntas para cuestionar pensamientos automáticos terapia cognitivo-conductual` |
+| Síndrome del impostor | `impostor syndrome self-help site:apa.org` o un servicio universitario |
+| Agotamiento laboral | `burnout recovery tips Cleveland Clinic` o `desgaste profesional Mayo Clinic` |
+| En español | `guía de autoayuda Servicio Andaluz de Salud pensamientos negativos` o `OMS "haz lo que importa" desengancharse` |
 
 ## Cómo citar
 
@@ -61,3 +67,10 @@ Una o dos bastan. Puedes limitar la búsqueda a dominios de nivel 1 y 2 si tu he
 - Cita solo URLs que hayas visto en tus resultados o que estén en `banco-preguntas.md`.
 - Si adaptaste la redacción, di "basado en" en vez de presentarla como cita textual.
 - Si la fuente está en inglés y respondes en español, traduce y aclara que la fuente está en inglés.
+
+## Lo que se aprendió al verificar (noviembre de 2026)
+
+- Varias guías del NHS se publican como PDF sin nombre de organización: atribúyelas por el dominio que las aloja ("cuaderno alojado por East London NHS Foundation Trust").
+- Algunas guías piden no reproducir su contenido. En ese caso, resume con tus palabras y enlaza la página.
+- Las fichas del CCI sobre "debería" y razonamiento emocional solo traen preguntas para identificar el pensamiento, no para cuestionarlo.
+- No se encontró una fuente hispana de nivel 1 o 2 sobre síndrome del impostor: usa la APA o servicios universitarios y traduce.

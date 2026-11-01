@@ -114,6 +114,13 @@
       "actividad": "Cuéntale a alguien de confianza, en persona o por llamada, algo que te esté costando. No para que lo arregle: para no cargarlo en soledad."
     },
     {
+      "id": "otra-mirada",
+      "tipo": "social",
+      "contexto": "ambos",
+      "minutos": 10,
+      "actividad": "Cuéntale a alguien de confianza el pensamiento que te está dando vueltas y pregúntale: \"¿Tú cómo lo ves?\". Escucha su versión completa antes de defender la tuya."
+    },
+    {
       "id": "estiramientos-dev",
       "tipo": "movimiento",
       "contexto": "ambos",

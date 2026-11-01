@@ -8,10 +8,11 @@ En estos casos la skill cambia de modo: nada de preguntas para reencuadrar, nada
 
 1. **Responde ya, con calidez y claridad.** Por ejemplo: *"Gracias por contármelo. Lo que describes es serio y mereces ayuda ahora mismo, de una persona."* Sin dramatizar y sin minimizar.
 2. **Pregunta directamente** si está a salvo ahora mismo y si ha pensado en hacerse daño. Preguntar abiertamente por el suicidio no aumenta el riesgo; suele aliviar.
-3. **Da la línea de crisis de su país** (tabla de abajo). Si no sabes el país, pregúntalo o da varias más findahelpline.com. Si tienes búsqueda web, confirma el número vigente en una fuente oficial.
-4. **Peligro inmediato** (plan, medios a mano, ya se hizo daño): pide que llame al número de emergencias ahora o que alguien cercano lo haga.
-5. **Que no se quede sin compañía:** anima a avisar a una persona de confianza (familia, amigo, compañero) para que esté con ella, y a alejarse de lo que pueda usar para hacerse daño.
-6. **Sigue presente** en la conversación mientras contacta ayuda. Si dice que no puede llamar, ofrece alternativas: chat o mensaje de texto de la línea, escribir a alguien de confianza, ir a urgencias.
+3. **Da la línea de crisis de su país** (tablas de abajo). Si no sabes el país, pregúntalo o da varias más findahelpline.com. Si tienes búsqueda web, confirma el número vigente en una fuente oficial.
+4. **Da siempre también el número de emergencias**, y más aún si la línea del país no atiende 24 h, si es de noche o si no está verificada. Si no conoces el número de emergencias del país, di "el número de emergencias local" y sugiere ir a la urgencia hospitalaria más cercana.
+5. **Peligro inmediato** (plan, medios a mano, ya se hizo daño): pide que llame a emergencias ahora o que alguien cercano lo haga.
+6. **Que no se quede sin compañía:** anima a avisar a una persona de confianza (familia, amigo, compañero) para que esté con ella, y a alejarse de lo que pueda usar para hacerse daño.
+7. **Sigue presente** en la conversación mientras contacta ayuda. Si dice que no puede llamar, ofrece alternativas: chat, texto o WhatsApp de la línea, escribir a alguien de confianza, ir a urgencias.
 
 ## Qué no hacer
 
@@ -20,17 +21,45 @@ En estos casos la skill cambia de modo: nada de preguntas para reencuadrar, nada
 - Minimizar ("no es para tanto"), sermonear o prometer guardar secretos.
 - Diagnosticar o hablar de medicación.
 
-## Líneas de ayuda
+## Líneas verificadas en fuente oficial
 
-Verificadas por búsqueda web en octubre de 2026. Los números pueden cambiar: confírmalos si puedes.
+Revisadas en noviembre de 2026 en la página oficial que se indica. Los números pueden cambiar.
 
-| País | Línea de crisis | Emergencias |
+| País | Línea | Horario | Fuente |
+|---|---|---|---|
+| España | **024**, Línea de atención a la conducta suicida (Ministerio de Sanidad) | 24 h, gratuita | sanidad.gob.es/linea024 |
+| Colombia | **106**, Línea de orientación en salud mental (Ministerio de Salud) | 24 h, gratuita y confidencial | minsalud.gov.co |
+| Chile | **\*4141**, "No estás solo, no estás sola" (MINSAL) | 24 h, gratuita, desde celulares | minsal.cl |
+| Uruguay | **0800 0767** o **\*0767** desde celular, Línea Vida (ASSE–MSP). Apoyo emocional: **0800 1920** | 24 h, gratuitas | gub.uy/ministerio-salud-publica |
+| Ecuador | **171, opción 6**, primeros auxilios psicológicos (Ministerio de Salud Pública) | **Solo 7:00–20:00**; fuera de ese horario, ECU 911 | salud.gob.ec |
+| Argentina | **135** (gratuita desde CABA y Gran Buenos Aires), **0800 345 1435** o **(011) 5275-1135** desde todo el país; Centro de Asistencia al Suicida, organización civil | **No es 24 h** y puede estar ocupada; si no responde, 911 (o 107, SAME, en CABA) | asistenciaalsuicida.org.ar |
+| Puerto Rico | **988** o **1-800-981-0023**, Línea PAS (ASSMCA); chat en lineapas.assmca.pr.gov | 24 h, gratuita | docs.pr.gov (ASSMCA) |
+| Estados Unidos | **988**, Suicide & Crisis Lifeline. En español: llamar al 988 y marcar 2, o enviar AYUDA por texto al 988 | 24 h, gratuita | 988lifeline.org |
+
+## Líneas sin confirmar en fuente oficial
+
+Úsalas diciendo que conviene confirmarlas, y da siempre el número de emergencias junto a ellas.
+
+| País | Línea | Nota |
 |---|---|---|
-| España | **024**, Línea de atención a la conducta suicida (24 h, gratuita y confidencial) | 112 |
-| México | **800 911 2000**, Línea de la Vida (24 h, gratuita) | 911 |
-| Chile | **\*4141**, línea de prevención del suicidio del MINSAL (24 h, gratuita, desde celulares) | 131 (SAMU) |
-| Argentina | **135** (CABA y GBA, gratuita) o **(011) 5275-1135** desde todo el país, Centro de Asistencia al Suicida | 911 |
-| Estados Unidos | **988**, Suicide & Crisis Lifeline (llamada o texto, con opción en español) | 911 |
-| Otro país | **https://findahelpline.com**: directorio internacional de líneas gratuitas por país y tema | El número local (112 en la UE) |
+| México | **800 911 2000**, Línea de la Vida (CONASAMA) | La OPS confirma que funciona 24 h; el número sale de directorios universitarios y prensa porque gob.mx no cargó |
+| Perú | **113**, Infosalud (Minsa) | Decir "llama al 113 y pide salud mental": la opción del menú cambió (5, o 3 y luego 5) |
+| Panamá | **147**, atención psicológica del MIDES; WhatsApp 6694-2747 | 24 h según prensa |
+| Paraguay | **155**, línea de crisis de salud mental (MSPBS, 2025) | Solo en prensa. Emergencias médicas: SEME 141 (verificado) |
+| República Dominicana | **811** (reemplaza al **809-200-1400**), "Cuida tu Salud Mental" | Da ambos; horario hasta medianoche según prensa |
+| Costa Rica | "Aquí Estoy", Colegio de Profesionales en Psicología | Los números publicados se contradicen y el horario es limitado: en crisis, 9-1-1 |
+| El Salvador | **131**, telecentro del Ministerio de Salud | Horario de oficina, no es línea de crisis: fuera de ese horario, emergencias |
+| Honduras | **150**, Teléfono de la Esperanza (no gubernamental) | Horario de oficina según prensa: en crisis, emergencias |
 
-Fuentes de la verificación: minsal.cl ("Línea de atención \*4141"), asistenciaalsuicida.org.ar, sanidad.gob.es (informes de la Línea 024), findahelpline.com y prensa nacional para la Línea de la Vida de México.
+**Bolivia, Venezuela y Guatemala:** no se encontró una línea oficial. Remite a https://findahelpline.com, al número de emergencias local y a la urgencia hospitalaria más cercana.
+
+**Cualquier otro país:** https://findahelpline.com, directorio internacional de líneas gratuitas por país y tema.
+
+## Números de emergencias
+
+En una página oficial se verificaron el 112 (España), el ECU 911 (Ecuador), el 911 y el 107 (Argentina) y el SEME 141 (Paraguay). Los demás son los números conocidos, pero no se confirmaron en una página oficial abierta:
+
+- **911:** México, Estados Unidos, Puerto Rico, Uruguay, Panamá, Honduras, El Salvador, Rep. Dominicana, Costa Rica (9-1-1)
+- **123:** Colombia
+- **131** (SAMU) en Chile
+- **112:** toda la Unión Europea
