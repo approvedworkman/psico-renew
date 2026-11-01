@@ -19,7 +19,7 @@ Un espacio breve para bajar revoluciones, mirar un pensamiento con otros ojos y 
 
 Antes de cualquier ejercicio, revisa el mensaje buscando señales de riesgo: ideas de suicidio o de no querer vivir, autolesión, planes de hacerse daño o de hacer daño a otros, estar en peligro (violencia, abuso), o una crisis aguda que no cede (no puede respirar, pánico intenso).
 
-Si aparece alguna, **deja de lado las preguntas y los mini-descansos** y sigue `references/crisis.md`. En resumen: responde con calidez y sin rodeos, pregunta si está a salvo ahora mismo, anima a contactar ya una línea de crisis de su país y da también el número de emergencias, porque algunas líneas no atienden 24 h (el archivo separa las verificadas de las que no), y anima a buscar a una persona de confianza cerca. En crisis no aplica la regla de ser breve: quédate en la conversación hasta que haya contactado ayuda. No intentes reestructurar un pensamiento suicida con preguntas: no es el momento ni la herramienta.
+Si aparece alguna, **deja de lado las preguntas y los mini-descansos** y sigue `references/crisis.md`. En resumen: responde con calidez y sin rodeos, pregunta si está a salvo ahora mismo, anima a contactar ya una línea de crisis de su país, dada con claridad y sin dudar del número en el mensaje, junto al número de emergencias (algunas líneas no atienden 24 h), y anima a buscar a una persona de confianza cerca. Responde con las tablas del archivo, sin buscar antes en la web: la primera respuesta tiene que llegar rápido. En crisis no aplica la regla de ser breve: quédate en la conversación hasta que haya contactado ayuda. No intentes reestructurar un pensamiento suicida con preguntas: no es el momento ni la herramienta.
 
 ## Cómo entrar
 
@@ -71,7 +71,13 @@ El síndrome del impostor suele mezclar etiquetarse, lectura de mente y filtro m
 
 ### 4. Busca preguntas respaldadas
 
-Usa las herramientas de búsqueda web que tengas (WebSearch, WebFetch, un agente de fetch o la búsqueda web de Claude.ai). La persona está esperando, así que haz 1–2 búsquedas dirigidas al patrón y no más de unas 3 llamadas en total en este paso. Los resultados de búsqueda suelen traer ya la redacción de las preguntas; abre la página solo si hace falta.
+Usa las herramientas de búsqueda web que tengas (WebSearch, WebFetch, un agente de fetch o la búsqueda web de Claude.ai). La persona está esperando, así que la velocidad importa:
+
+- Busca directamente; no leas otros archivos de la skill antes de buscar.
+- Haz **una** búsqueda dirigida al patrón. Una segunda, solo si la primera no trae fuentes de los niveles de abajo.
+- Si el resultado de búsqueda ya muestra la redacción de las preguntas, úsala; no abras la página solo para confirmarla.
+
+Consultas que funcionan: `labelling mind reading unhelpful thinking styles questions NHS`, `catastrophizing challenge questions APA worksheet`, `guía de autoayuda Servicio Andaluz de Salud pensamientos negativos`.
 
 Prefiere, en este orden:
 
@@ -79,9 +85,9 @@ Prefiere, en este orden:
 2. Universidades, hospitales académicos y centros clínicos: Beck Institute, Mayo Clinic (también en español), Cleveland Clinic, Greater Good Science Center (Berkeley), Psychology Tools, servicios de salud mental universitarios.
 3. Literatura revisada por pares (PubMed, PLOS).
 
-Evita blogs de bienestar genéricos, influencers, apps que venden algo, granjas de contenido y foros. En `references/fuentes-confiables.md` hay más dominios, señales de alerta y consultas de ejemplo por patrón.
+Evita blogs de bienestar genéricos, influencers, apps que venden algo, granjas de contenido y foros. Consulta `references/fuentes-confiables.md` solo si dudas de si una fuente es confiable o necesitas una consulta para un patrón poco común.
 
-**Si la búsqueda no está disponible, tarda demasiado o no encuentra fuentes confiables**, usa `references/banco-preguntas.md`, que tiene preguntas ya seleccionadas por patrón con su fuente. Dilo con naturalidad: *"de mi banco de preguntas, basado en la APA"*.
+**Si la búsqueda no está disponible, falla o no encuentra fuentes confiables**, abre entonces `references/banco-preguntas.md`, que tiene preguntas ya seleccionadas por patrón con su fuente, y dilo con naturalidad: *"de mi banco de preguntas, basado en la APA"*. Si la búsqueda funcionó, no hace falta abrirlo.
 
 **Cita solo lo que viste**: una URL que apareció en tus resultados o que está en el banco. No inventes URLs ni atribuyas una pregunta a una fuente que no la contiene; eso rompe justo la confianza que esta skill quiere dar.
 

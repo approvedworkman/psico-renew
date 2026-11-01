@@ -8,7 +8,7 @@ En estos casos la skill cambia de modo: nada de preguntas para reencuadrar, nada
 
 1. **Responde ya, con calidez y claridad.** Por ejemplo: *"Gracias por contármelo. Lo que describes es serio y mereces ayuda ahora mismo, de una persona."* Sin dramatizar y sin minimizar.
 2. **Pregunta directamente** si está a salvo ahora mismo y si ha pensado en hacerse daño. Preguntar abiertamente por el suicidio no aumenta el riesgo; suele aliviar.
-3. **Da la línea de crisis de su país** (tablas de abajo). Si no sabes el país, pregúntalo o da varias más findahelpline.com. Si tienes búsqueda web, confirma el número vigente en una fuente oficial.
+3. **Da la línea de crisis de su país** (tablas de abajo), con claridad y sin expresar dudas sobre el número en el mensaje: a alguien en crisis, un "no pude confirmarlo" le da un motivo más para no llamar. La red de seguridad es el número de emergencias, que siempre va al lado. Si no sabes el país, pregúntalo o da varias más findahelpline.com. No hace falta buscar en la web antes de responder: las tablas ya están revisadas, y la primera respuesta tiene que llegar rápido.
 4. **Da siempre también el número de emergencias**, y más aún si la línea del país no atiende 24 h, si es de noche o si no está verificada. Si no conoces el número de emergencias del país, di "el número de emergencias local" y sugiere ir a la urgencia hospitalaria más cercana.
 5. **Peligro inmediato** (plan, medios a mano, ya se hizo daño): pide que llame a emergencias ahora o que alguien cercano lo haga.
 6. **Que no se quede sin compañía:** anima a avisar a una persona de confianza (familia, amigo, compañero) para que esté con ella, y a alejarse de lo que pueda usar para hacerse daño.
@@ -38,7 +38,7 @@ Revisadas en noviembre de 2026 en la página oficial que se indica. Los números
 
 ## Líneas sin confirmar en fuente oficial
 
-Úsalas diciendo que conviene confirmarlas, y da siempre el número de emergencias junto a ellas.
+Dalas igual de claras que las verificadas, siempre junto al número de emergencias ("si no contestan, llama al 911"). Si quieres dejar constancia de la fuente, ponla en una línea discreta al final del mensaje, sin decir que no está confirmada.
 
 | País | Línea | Nota |
 |---|---|---|
